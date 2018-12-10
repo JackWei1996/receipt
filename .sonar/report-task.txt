@@ -1,0 +1,6 @@
+projectKey=PowerPlus
+serverUrl=http://localhost:9000/sonar
+serverVersion=7.4.0.18908
+dashboardUrl=http://localhost:9000/sonar/dashboard?id=PowerPlus
+ceTaskId=AWeVxfxpmsS3N97VJd0D
+ceTaskUrl=http://localhost:9000/sonar/api/ce/task?id=AWeVxfxpmsS3N97VJd0D
